@@ -1,11 +1,11 @@
 # Flutter
 Self study flutter SDK and dart language
 
-# Module / Lib
+# Module
 
 | No  | Module | Description |
 | :---: | :---: | :--- |
-| 1  | TimeUnit | A TimeUnit represents time durations at a given unit of granularity and provides utility methods to convert across units, and to perform timing and delay operations in these units.</br> ```TimeUnit.DAYS.toMillis(14)``` |
+| 1  | [TimeUnit](https://github.com/ttpho/flutter/blob/master/time_unit.dart) | A TimeUnit represents time durations at a given unit of granularity and provides utility methods to convert across units, and to perform timing and delay operations in these units.</br> ```TimeUnit.DAYS.toMillis(14)``` |
 
 
 # Project 
