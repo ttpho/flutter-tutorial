@@ -1,3 +1,47 @@
+pubspec.yaml template
+
+```dart
+name: <name>
+description: <description>
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  http: ^0.12.0+2
+  xml: ^3.5.0
+  shared_preferences: ^0.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+flutter:
+  uses-material-design: true
+
+  # To add Flutter specific assets to your application, add an assets section,
+
+  # To add Flutter specific custom fonts to your application, add a fonts
+  # section here, in this "flutter" section. Each entry in this list should
+  # have a "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font.
+ 
+  module:
+    androidX: true
+    androidPackage: <androidPackage>
+    iosBundleIdentifier: <iosBundleIdentifier>
+
+```
+
 
 | No| Descriptions| Libs  |Android</br>iOS|Note|
 | :---- |:-|:----|:----|:----------|
