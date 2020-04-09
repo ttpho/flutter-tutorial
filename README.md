@@ -4,8 +4,9 @@ Self study flutter SDK and dart language
 # Module
 
 | No  | Module | Description |
-| :---: | :---: | :--- |
+| :---: | :--- | :--- |
 | 1  | [TimeUnit](https://github.com/ttpho/flutter/blob/master/time_unit.dart) | A TimeUnit represents time durations at a given unit of granularity and provides utility methods to convert across units, and to perform timing and delay operations in these units.</br> ```var d = TimeUnit.DAYS.toMillis(14);``` |
+| 2  | [YoutubeUriHelper](https://github.com/ttpho/YoutubeUriHelper) | The hepler class to detect youtube id and youtube media info |
 
 
 # Project 
