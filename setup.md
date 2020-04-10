@@ -12,6 +12,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  
+  # suport multi language
+  flutter_localizations:
+    sdk: flutter
+
 
   cupertino_icons: ^0.1.3
   http: ^0.12.0+2
