@@ -1,6 +1,12 @@
 # Flutter
 Self study flutter SDK and dart language
 
+
+# Tools
+Dynamic adding assets and images into pubspec.yaml file
+https://github.com/ttpho/BuildAssets
+<img src="https://raw.githubusercontent.com/ttpho/BuildAssets/master/3.png" />
+
 # Module
 
 | No  | Module | Description |
