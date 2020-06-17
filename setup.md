@@ -22,6 +22,7 @@ dependencies:
   http: ^0.12.0+2
   xml: ^3.5.0
   shared_preferences: ^0.4.2
+  provider: ^2.0.1
 
 dev_dependencies:
   flutter_test:
