@@ -28,5 +28,6 @@ https://github.com/ttpho/BuildAssets
 | 6 | [MultiLanguages](https://github.com/ttpho/MultiLanguages) | <img src="https://raw.githubusercontent.com/ttpho/MultiLanguages/master/input.gif" width = "200" /> |
 | 7 | [Gradient review](https://github.com/ttpho/gradient) | <img src="https://user-images.githubusercontent.com/3994863/104839109-b27f9380-58f1-11eb-9809-3e7548ad4447.png" width = "200" /> |
 | 8 | [shared_preferences_table](https://github.com/ttpho/shared_preferences_table) | <img src="https://raw.githubusercontent.com/ttpho/shared_preferences_table/main/screencapture-localhost-53720-2021-01-19-21_58_15.png" width = "300" /> |
+| 9 | [Display PDF from URL](https://github.com/ttpho/PDFViewer) | <img src="https://user-images.githubusercontent.com/3994863/126652864-45c69e73-1b4a-4f5a-b5a1-a9f20c6ac059.png" width = "200" /> |
 
 
